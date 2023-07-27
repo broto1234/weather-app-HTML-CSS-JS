@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('bg.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.card {
+  background-color: transparent;
+  width: 50%;
+  max-width: 600px;
+  padding: 2rem;
+  margin-top: -18rem;
+}
+
+.searchContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    margin-bottom: 1rem;
+}
+
+.forText, button {
+  color: #000;
+  border: none;
+  outline: none;
+  padding: 0.5rem 0;
+  font-size: 110%;
+  text-align: center;
+  border-radius: 15px;
+}
+
+button {
+  margin-left: 0.5rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+}
+
+.infoContainer {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.partOne {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.partTwo {
+  text-align: end;
+}
+
+.temp {
+	color: #202124;
+	font-size: 25px;
+	line-height: 26px;
+  font-family: Google Sans,arial,sans-serif;
+  font-weight: 600;
+} 
+
+.forSup {
+  font-family: arial,sans-serif;
+  font-size: 16px;
+  margin: -15px 0 0 -20px;
+}
+
+.city {
+  color: #202124;
+  font-size: 140%;
+  font-weight: 600;
+  font-family: arial,sans-serif;
+}
+
+.time, .descript {
+  color: #202124;
+  font-family: arial,sans-serif;
+}
+
+.errorCity {
+  color: rgb(104, 16, 16);
+  margin-left: 5.5rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+@media screen and (max-width:650px) {
+  .card {
+    width: 120%;
+  }
+}
