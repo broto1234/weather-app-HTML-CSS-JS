@@ -9,5 +9,5 @@ The first look of the project is:
 If we do not write any city name or empty city name, it will look like this:
 ![weather app 2](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/a641285a-1644-47a0-8811-9c300b1ce1bf)
 
-If we write any city name, we can see the following results:
+If we write any city name (for example, Copenhagen), we can see the following results:
 ![weather app 3](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/975965eb-1b02-497d-89b8-a57276c8b5eb)
