@@ -90,13 +90,16 @@ button {
 
 .errorCity {
   color: rgb(104, 16, 16);
-  margin-left: 5.5rem;
+  margin-left: 25%;
   font-weight: bold;
   font-size: 20px;
 }
 
-@media screen and (max-width:650px) {
+@media screen and (max-width:768px) {
   .card {
     width: 120%;
+  }
+  .errorCity {
+    margin-left: 20%;
   }
 }
