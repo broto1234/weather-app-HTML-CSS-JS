@@ -14,7 +14,7 @@ If we write any city name (for example, Copenhagen), we can see the following re
 
 ![weather app3](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/4ac1ddb3-2253-44d3-84c8-b06e2e522de1)
 
-In this project, I use JavaScrpit **Fetch API()** method to get current weather data from Weather API (https://openweathermap.org/api).
+In this project, I use JavaScript **Fetch API()** method to get current weather data from Weather API (https://openweathermap.org/api).
 
 Fetch API allows us to make HTTP request to web servers from web browsers. 
 
