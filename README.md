@@ -49,6 +49,7 @@ git commit -m initial
 git push  -u origin main
 ```
 
-To deploy the Repository on **Vercel**, open the [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) with GitHub account. 
+To deploy the Repository on **Vercel**:
+Open the [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) with GitHub account. 
 
 Then `Add New` > `project` >  react-github-user-search  `Import`> `Deploy`.
