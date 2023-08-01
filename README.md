@@ -20,16 +20,12 @@ Fetch API allows us to make HTTP request to web servers from web browsers.
 
 The fetch () method instructs the web browsers to send a request to a URL, which asynchronously waits for a response. The first **then** passes the response to an anonymous function that response provides multiple methods such as response.json() for JSON data, and then passes the JSON to a second **then** that return the value of data.
 
-fetch('https://api.openweathermap.org/data/2.5/weather?...')
-  ```bash
-  .then(response => response.json())
-  ```
 ```bash
+fetch('https://api.openweathermap.org/data/2.5/weather?...')
+  .then(response => response.json())
   .then(data => {
     //...
    })
-```
-```bash
   .catch((error) => {
     //...
   })
