@@ -2,7 +2,7 @@
 
 This is a **Weather App** with HTML, CSS, and JavaScript hosted on Vercel (https://weather-app-html-css-js-sage.vercel.app/).
 
-The first look of the project is:
+The first look of the project is :
 
 ![weather app1](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/1b2262e8-8834-47c9-90cf-ca52902def6c)
 
