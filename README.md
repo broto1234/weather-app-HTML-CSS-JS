@@ -1,3 +1,31 @@
+# 🌐 [weather app]
+
+## 📌 About the Project
+This is a **Weather App** that allows users to check real-time weather conditions in any city. It was built using **HTML, CSS, and JavaScript** with OpenWeather API integration.
+
+---
+
+## 🎯 Features
+✅ **Responsive Design** – Works on all screen sizes  
+✅ **Real-time Data** – Fetches live weather updates using APIs  
+✅ **Interactive UI** – Smooth animations and transitions  
+
+---
+
+## 🚀 Live Demo
+🔗 [Project Demo](https://weather-app-html-css-js-sage.vercel.app/)  
+
+---
+
+## 🛠️ Built With
+- **HTML** – Structure of the web page  
+- **CSS** – Styling and animations  
+- **JavaScript** – Functionality and interactivity  
+- **API** - OpenWeather API 
+
+---
+
+---------
 # weather-app-HTML-CSS-JS
 
 This is a **Weather App** with HTML, CSS, and JavaScript hosted on Vercel (https://weather-app-html-css-js-sage.vercel.app/).
