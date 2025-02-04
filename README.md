@@ -25,23 +25,6 @@ This is a **Weather App** that allows users to check real-time weather condition
 
 ---
 
----------
-# weather-app-HTML-CSS-JS
-
-This is a **Weather App** with HTML, CSS, and JavaScript hosted on Vercel (https://weather-app-html-css-js-sage.vercel.app/).
-
-The first look of the project is :
-
-![weather app1](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/1b2262e8-8834-47c9-90cf-ca52902def6c)
-
-If we do not write any city name or empty city name, it will look like this:
-
-![weather app2](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/d366e9b2-540d-449c-95ca-bc065d7d1f4f)
-
-If we write any city name (for example, Copenhagen), we can see the following results:
-
-![weather app3](https://github.com/broto1234/weather-app-HTML-CSS-JS/assets/73961811/4ac1ddb3-2253-44d3-84c8-b06e2e522de1)
-
 In this project, I use JavaScript **Fetch API()** method to get current weather data from Weather API (https://openweathermap.org/api).
 
 Fetch API allows us to make HTTP request to web servers from web browsers. 
