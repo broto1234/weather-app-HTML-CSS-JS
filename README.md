@@ -25,6 +25,12 @@ This is a **Weather App** that allows users to check real-time weather condition
 
 ---
 
+## Deploy this project on
+- **Vercel** - A platform for wev, providing fast global deployment with a simple workflow.
+- with **GitHub** - A cloud-based platform that hosts `Git` repositories, making it easy to collaborate on code with others. Git is a distributed version control system that allows developers to create, store, manage and share their code.
+
+---
+
 In this project, I use JavaScript **Fetch API()** method to get current weather data from Weather API (https://openweathermap.org/api).
 
 Fetch API allows us to make HTTP request to web servers from web browsers. 
@@ -41,7 +47,7 @@ fetch('https://api.openweathermap.org/data/2.5/weather?...')
     //...
   })
 ```
-## Deploy this project on Vercel with GitHub
+---
 
 First open `GitHub` account and create a new Repository.
 
